@@ -23,5 +23,5 @@ assembly steps:
 7) slot the wings onto the front of the body and route wires through the roof of the electronics compartment, attach optional camera through front mounting hole
 8) if the wings are too heavy for the dowels, and they start to bend use fishing wire and wooden support on the roof in a tent style to raise the wings, or use dowels underneath the wing
 9) insert the bread board, arduino nano, and switch into the electronics compartment, making sure the switch is secure and electronically sound
-10) when ready to fly program the arduino and plug in the lipo battery into a cable splitter connecting the two ESC's and the plane will start on its own
+10) when ready to fly program the arduino and plug in the lipo battery into a cable splitter connecting the two ESC's and the plane will start on its own                                                           
 link to documentation: https://docs.google.com/document/d/1xMwoFOoDOEly96luMzOv4UvHKFmw87LAqAQyq4E37es/edit?tab=t.0#heading=h.g8vtzwd1ah8q
