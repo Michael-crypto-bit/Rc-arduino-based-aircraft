@@ -17,11 +17,17 @@ assembly steps:
 1) 3d print wings with lw pla and attach to each other with wooden dowels, the dowels will slot into the small circular holes in the side of each wing segment
 2) screw in 2200kv motors and connect ESC's sliding the ESC into the larger hole in the wing, once for each wing
 3) put in servos into the smaller hole with the arm base facing towards the trailing edge of the wing, with cable exstensions going in the direction of the 2200 kv motors and eventually towards the body all cables will run through the holes in the wing
-4) after all electronics are placed and dowels have been slotted into the wings enclose with duck tape to bind the wings together and enclose electronics
-5) assemble the body sections with glue, attach rear wings with two more dowels or thick wire and glue in place
-6) carve a the rear tail out of foam and attach with dowels and glue
-7) slot the wings onto the front of the body and route wires through the roof of the electronics compartment, attach optional camera through front mounting hole
-8) if the wings are too heavy for the dowels, and they start to bend use fishing wire and wooden support on the roof in a tent style to raise the wings, or use dowels underneath the wing
-9) insert the bread board, arduino nano, and switch into the electronics compartment, making sure the switch is secure and electronically sound
-10) when ready to fly program the arduino and plug in the lipo battery into a cable splitter connecting the two ESC's and the plane will start on its own                                                           
+![IMG_7940](https://github.com/user-attachments/assets/c37dbd8d-2114-40f9-aaf5-30d879a3165e)
+![IMG_7946](https://github.com/user-attachments/assets/dfad1c9a-beb2-474e-9efd-939e4071e54b)
+5) after all electronics are placed and dowels have been slotted into the wings enclose with duck tape to bind the wings together and enclose electronics
+6) assemble the body sections with glue, attach rear wings with two more dowels or thick wire and glue in place
+7) carve a the rear tail out of foam and attach with dowels and glue
+![IMG_7941](https://github.com/user-attachments/assets/d723a7a8-c7e0-41f6-b905-b6518f203490)
+8) slot the wings onto the front of the body and route wires through the roof of the electronics compartment, attach optional camera through front mounting hole
+9) if the wings are too heavy for the dowels, and they start to bend use fishing wire and wooden support on the roof in a tent style to raise the wings, or use dowels underneath the wing
+    ![IMG_7947](https://github.com/user-attachments/assets/d7457006-5220-45fe-8d36-82b567eba0d7)
+11) insert the bread board, arduino nano, and switch into the electronics compartment, making sure the switch is secure and electronically sound
+    ![IMG_7943](https://github.com/user-attachments/assets/65011c9f-3084-415e-a582-5d6d75abfad0)
+12) when ready to fly program the arduino and plug in the lipo battery into a cable splitter connecting the two ESC's and the plane will start on its own
+![IMG_7937](https://github.com/user-attachments/assets/49e7d62e-553f-4ae7-bc70-6847b5d6e775)                                                                                                          
 link to documentation: https://docs.google.com/document/d/1xMwoFOoDOEly96luMzOv4UvHKFmw87LAqAQyq4E37es/edit?tab=t.0#heading=h.g8vtzwd1ah8q
