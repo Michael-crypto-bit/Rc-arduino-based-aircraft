@@ -31,7 +31,7 @@ assembly steps:
 12) when ready to fly program the arduino and plug in the lipo battery into a cable splitter connecting the two ESC's and the plane will start on its own
 ![IMG_7937](https://github.com/user-attachments/assets/49e7d62e-553f-4ae7-bc70-6847b5d6e775)                                                                                                          
 link to documentation: https://docs.google.com/document/d/1xMwoFOoDOEly96luMzOv4UvHKFmw87LAqAQyq4E37es/edit?tab=t.0#heading=h.g8vtzwd1ah8q                                                              
--------------------------------------------------------UPDATE 1/5/2026--------------------------------------------------------                                                                                       
+------------------------------------------------------UPDATE 1/5/2026---------------------------------------------------                                                                                       
     I have designed an all in one pcb board for the arduino pro mini and extras including a reciever, gyro and more all in one board. I am moving to the arduino pro mini mainly for it's size while still having the same arduino base which is the purpose of this project. These are being shipped from pcbway.com and the review will be uploaded shortly.
     This update will allow the aircraft to be fully rc, arduino code is soon to follow.
 -------------------------------------------------------------------------------------------------------------                                                                                                    
