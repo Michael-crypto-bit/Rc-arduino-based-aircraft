@@ -5,7 +5,7 @@ arduino Nano
 2 micro servos
 xt-60 cable y splitter male to dual female output                                                                                                                                                                
 plastic glue                                                                                                 
-duck tape                                                                                                                                                                                            
+duct tape                                                                                                                                                                                            
 foam                                                                                                      
 fpv camera optional                                                                                                                                                                                           
 fishing wire optional                                                                                                                   
