@@ -34,4 +34,6 @@ link to documentation: https://docs.google.com/document/d/1xMwoFOoDOEly96luMzOv4
 -------------------------------------------------------UPDATE 1/5/2026--------------------------------------------------
 I have designed an all in one pcb board for the arduino pro mini and extras including a reciever, gyro and more all in one board. I am moving to the arduino pro mini mainly for it's size while still having the same arduino base which is the purpose of this project. These are being shipped from pcbway.com and the review will be uploaded shortly.
     This update will allow the aircraft to be fully rc, arduino code is soon to follow.
--------------------------------------------------------------------------------------------------------------                                                                                                    
+-------------------------------------------------------UPDATE 2/4/2026--------------------------------------------------
+The long awaited pcb boards have arrived from [PCBway](PCBway.com). At a firts glance they look quite professional in their blacck colouring, their is no issues or malformations in their design. I am very happy with the quality. Pictures are soon to follow. My complete review will be updated when I have completely sautered and tested the pcb boards.
+-------------------------------------------------------------------------------------------------------------------------                                                                                            
