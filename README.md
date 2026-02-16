@@ -37,7 +37,7 @@ I have designed an all in one pcb board for the arduino pro mini and extras incl
 -------------------------------------------------------UPDATE 2/4/2026--------------------------------------------------
 The long awaited pcb boards have arrived from PCBway.com. At a firts glance they look quite professional in their black, their is no issues or malformations in their design. I am very happy with the quality. Pictures are soon to follow. My complete review will be updated when I have completely sautered and tested the pcb boards.
 -------------------------------------------------------UPDATE 2/16/2026---------------------------------------------------                                                                                           
-Assembly has started for the PCB boards, and v1 of the gerbers will be uploaded to this repository, also here are the pictures that were promised, again a great thanks to PCBway.com for generously supplying these high quality PCB boards.
+Assembly has started for the PCB boards, and v1 of the gerbers will be uploaded to this repository, also here are the pictures that were promised, again a great thanks to PCBway.com for generously supplying these high quality PCB boards. The files for the transmitter can be found on https://howtomechatronics.com/projects/diy-arduino-rc-transmitter/
 ![IMG_9697](https://github.com/user-attachments/assets/30a537c1-f55d-4fb1-baf0-2b7bd42687b5)
 ![IMG_9698](https://github.com/user-attachments/assets/8367f7d7-17df-415f-b1d0-60c091eef116)
 ![IMG_9696](https://github.com/user-attachments/assets/b9cce587-e87c-4ebb-a22a-86a0ea385b7c)
